@@ -1,0 +1,9 @@
+# Learning Journey
+# 
+# Cargo.toml
+#
+# This file describes the Learning Journey package. It is used by Cargo to build and compile the software and manage software dependencies.
+
+[package]
+name = "learning-journey"
+version = "0.0.1"
