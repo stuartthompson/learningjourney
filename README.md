@@ -7,3 +7,7 @@ I am writing this for my daughter, Rowen, to provide a new opportunity for her t
 ## Structure
 
 As part of my own continued education I'm teaching myself the Rust programming language. This project gives a great opporuntity to both practice my skills and build a new experience for my daughter.
+
+## License
+
+This software is released under the GNU General Public License v 3.0. See the LICENSE file for full license information.
